@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Alice",
+        "tz": "23456789",
+        "password": "33285",
+        "numPlay": 0,
+        "strAppear": [],
+        "numWin": 0
+    },
+    {
+        "name": "Bob",
+        "tz": "123456",
+        "password": "12345",
+        "numPlay": 5,
+        "strAppear": [],
+        "numWin": 3
+    },
+    {
+        "name": "shani shaulian",
+        "tz": "32753222",
+        "password": "1a2a3a4a",
+        "numPlay": 0,
+        "strAppear": [],
+        "numWin": 0
+    },
+    {
+        "name": "moriya geva",
+        "tz": "327519575",
+        "password": "33209",
+        "numPlay": 12,
+        "strAppear": [
+            "cheshvan",
+            "computer",
+            "Greece",
+            "canada",
+            "greece",
+            "netherlands",
+            "india",
+            "france",
+            "sweden",
+            "norway"
+        ],
+        "numWin": 11
+    },
+    {
+        "name": "Aliza Cohen",
+        "tz": "328403126",
+        "password": "12345",
+        "numPlay": 1,
+        "strAppear": [
+            "kislev"
+        ],
+        "numWin": 1
+    },
+    {
+        "name": "adi cohen zada",
+        "tz": "215550807",
+        "password": "321465954554894215445151548451415141515",
+        "numPlay": 1,
+        "strAppear": [
+            "cow"
+        ],
+        "numWin": 1
+    },
+    {
+        "name": "poi",
+        "tz": "358471254",
+        "password": "741",
+        "numPlay": 1,
+        "strAppear": [
+            "cheshvan"
+        ],
+        "numWin": 1
+    },
+    {
+        "name": "rtyui",
+        "tz": "325874125",
+        "password": "741",
+        "numPlay": 1,
+        "strAppear": [
+            "cheshvan"
+        ],
+        "numWin": 1
+    },
+    {
+        "name": "Yasmin",
+        "tz": "325920999",
+        "password": "123",
+        "numPlay": 1,
+        "strAppear": [
+            "united states"
+        ],
+        "numWin": 1
+    }
+]
