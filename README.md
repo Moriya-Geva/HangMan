@@ -16,7 +16,8 @@ Hangman/
 ├── users.json # Persistent storage of user profiles and statistics in JSON format
 ├── word_bank/ # Directory containing word lists used for the game
 └── README.md # Project documentation and instructions (this file)
-```bash
+```
+
 ## Technologies Used  
 - **Programming Language:** Python 3  
 - **Framework:** Flask (for RESTful server)  
