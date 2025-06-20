@@ -8,6 +8,7 @@ The project includes a backend server implemented as a Flask REST API which supp
 
 ## Project Structure  
 
+```bash
 Hangman/
 ├── client.py # Console client handling game interaction and user input
 ├── server.py # Flask server managing API endpoints, game logic, and data persistence
@@ -15,7 +16,7 @@ Hangman/
 ├── users.json # Persistent storage of user profiles and statistics in JSON format
 ├── word_bank/ # Directory containing word lists used for the game
 └── README.md # Project documentation and instructions (this file)
-
+```bash
 ## Technologies Used  
 - **Programming Language:** Python 3  
 - **Framework:** Flask (for RESTful server)  
